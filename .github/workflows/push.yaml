@@ -26,5 +26,3 @@ jobs:
 
       - name: Push Pipeline Status
         run: echo "Push Pipeline Success"
-
-        #Just a commt to end of file
